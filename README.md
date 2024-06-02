@@ -28,5 +28,5 @@ The page will reload if you make edits.
 
 ## Demo
 
-![Farmers Market Finder Demo](demo/demo.gif)
+![Demo](demo/demo.gif)
 
